@@ -1,0 +1,8 @@
+Archivo: department104.txt tiene el valor: 0.0 
+Archivo: department101.txt tiene el valor: -1.7700363410000008E7 
+Archivo: department106.txt tiene el valor: -2.9874593719999954E7 
+Archivo: department105.txt tiene el valor: -2902057.9100000137 
+Archivo: department102.txt tiene el valor: -1.186447995799993E8 
+Archivo: department103.txt tiene el valor: -1.0903160742999963E8 
+Archivo: department108.txt tiene el valor: -4.400813338999991E7 
+Archivo: department107.txt tiene el valor: 3.081871008548579E9 
